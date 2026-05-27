@@ -4,9 +4,9 @@
 
 **Data Scientist · Data Analyst**
 
-[![Portfolio](https://img.shields.io/badge/◈_portfolio-kornev__v-d4a445?style=for-the-badge&logoColor=white)](https://vladimir-kornev.github.io/VladML.github.io/)
-[![Email](https://img.shields.io/badge/◈_email-d4a445?style=for-the-badge&logoColor=white)](mailto:luckyvlad878@gmail.com)
-[![EN·RU·中文](https://img.shields.io/badge/◈_EN·RU·中文-d4a445?style=for-the-badge)](https://github.com/Vladimir-Kornev)
+[![Portfolio](https://img.shields.io/badge/◈_portfolio-kornev__v-d4a445?style=for-the-badge)](https://vladimir-kornev.github.io/VladML.github.io/)
+[![Email](https://img.shields.io/badge/◈_email-vladkornev878%40gmail.com-d4a445?style=for-the-badge)](mailto:vladkornev878@gmail.com)
+[![Languages](https://img.shields.io/badge/◈_EN·RU·中文-d4a445?style=for-the-badge)](https://github.com/Vladimir-Kornev)
 
 </div>
 
@@ -39,10 +39,11 @@ Focused on **tabular ML**, **interpretable models**, and the unglamorous discipl
 ![SQL](https://img.shields.io/badge/SQL-0b0c0e?style=flat-square&logo=mysql&logoColor=d4a445)
 ![pandas](https://img.shields.io/badge/pandas-0b0c0e?style=flat-square&logo=pandas&logoColor=d4a445)
 ![NumPy](https://img.shields.io/badge/NumPy-0b0c0e?style=flat-square&logo=numpy&logoColor=d4a445)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0c0e?style=flat-square&logo=scikit-learn&logoColor=d4a445)
-![XGBoost](https://img.shields.io/badge/XGBoost-0b0c0e?style=flat-square&logo=xgboost&logoColor=d4a445)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0c0e?style=flat-square&logo=scikitlearn&logoColor=d4a445)
+![XGBoost](https://img.shields.io/badge/XGBoost-0b0c0e?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-0b0c0e?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0b0c0e?style=flat-square&logo=mlflow&logoColor=d4a445)
-![SHAP](https://img.shields.io/badge/SHAP-0b0c0e?style=flat-square&logoColor=d4a445)
+![SHAP](https://img.shields.io/badge/SHAP-0b0c0e?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-0b0c0e?style=flat-square&logo=git&logoColor=d4a445)
 ![Docker](https://img.shields.io/badge/Docker-0b0c0e?style=flat-square&logo=docker&logoColor=d4a445)
 ![Tableau](https://img.shields.io/badge/Tableau-0b0c0e?style=flat-square&logo=tableau&logoColor=d4a445)
@@ -52,7 +53,7 @@ Focused on **tabular ML**, **interpretable models**, and the unglamorous discipl
 ### `// featured project`
 
 <a href="https://github.com/Vladimir-Kornev/credit-risk-scoring">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Kornev&repo=credit-risk-scoring&hide_border=true&bg_color=0b0c0e&title_color=d4a445&text_color=e6e3d8&icon_color=d4a445" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Kornev&repo=credit-risk-scoring&hide_border=true&bg_color=0b0c0e&title_color=d4a445&text_color=e6e3d8&icon_color=d4a445" />
 </a>
 
 ```
