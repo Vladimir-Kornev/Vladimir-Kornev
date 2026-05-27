@@ -64,18 +64,6 @@ LightGBM · XGBoost · SHAP · MLflow · pytest
 
 ---
 
-### `// stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vladimir-Kornev&show_icons=true&hide_border=true&bg_color=0b0c0e&title_color=d4a445&text_color=e6e3d8&icon_color=d4a445&hide=prs,issues&rank_icon=github" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Kornev&layout=compact&hide_border=true&bg_color=0b0c0e&title_color=d4a445&text_color=e6e3d8&langs_count=5" height="150"/>
-
-</div>
-
----
-
 <div align="center">
 <sub>// EOF · © 2026 · v.kornev · open to work</sub>
 </div>
